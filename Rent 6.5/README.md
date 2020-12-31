@@ -1,4 +1,4 @@
-# Project-Rent 6.5 ![logo](https://raw.githubusercontent.com/girisakar365/Project-Rent/main/Rent%204.0/__img__/logo.ico)
+# Project-Rent 6.5 ![logo](https://raw.githubusercontent.com/girisakar365/Project-Rent/main/Rent%206.5/logo.ico)
 
 
 ### RENT:
