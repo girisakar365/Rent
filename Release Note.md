@@ -1,4 +1,6 @@
-# Release Note 6.5.3
+# Release Note 6.5.3 ![logo](https://raw.githubusercontent.com/girisakar365/Project-Rent/main/Rent%206.5/logo.ico)
+
+#### Date Thursday,31 December, 2020
 
 ### Bugs:
   1.	Search Engine Bug [Solved]
