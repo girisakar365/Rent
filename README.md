@@ -1,4 +1,4 @@
-# Project-Rent  ![logo](https://raw.githubusercontent.com/girisakar365/Project-Rent/main/Rent%204.0/__img__/logo.ico)
+# Project-Rent  ![logo](https://raw.githubusercontent.com/girisakar365/Project-Rent/main/Rent%206.5/logo.ico)
 Tuesday, December 15, 2020
 About
 This is my first major project as a beginner. This project is a desktop-based application based on tkinter framework. The main purpose of this program is to calculate the total amount of rent to be paid by the tenant (The person(s) or party who lives in a rent house) every month and keep it as data.
