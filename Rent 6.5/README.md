@@ -30,7 +30,7 @@ Similarly, the security section also contains a minor update which we call the _
 2.	User will now be able to use the QR-Code feature. This feature is one of the biggest changes in this version. User can scan the QR code in order to get the information of the record in their other devices. This feature will be useful to send the details of the rental payment to the tenant.
 3.	We also have provided a feature to reset all the settings made by the user.
 4. User will now be able to export their data to an excel file in excel in .csv file format. This will allow user to save their data and analyze it with the help of excel.  
-### Attention: ![logo](https://raw.githubusercontent.com/girisakar365/Project-Rent/main/Rent%204.0/__img__/warning.png)
+### Attention:
 This time we have made a linked based file system to run this application which means that their will be a lot of dependency files inorder to run the program. This program is not completely costumizable thus, changing the file system may lead to difficulties in running the program.
  
 __So, we would strongly recommend you not to change or delete or mislead any files inculded in the main file system.__
