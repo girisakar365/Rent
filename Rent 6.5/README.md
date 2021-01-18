@@ -26,7 +26,7 @@ Major changes have been made to this program! The GUI of this program is way too
 
 #### List of updates:
 1.	This time users should not use any kind of default password set by the developer in order to enter the main program. It means we are providing users an option to either enable or disable security.
-Similarly, the security section also contains a minor update which we call the ____password generator___. Password generator is a feature which generates a unique and secured password every time we use it. Using this feature will make the data more secured.
+Similarly, the security section also contains a minor update which we call the ___password generator___. Password generator is a feature which generates a unique and secured password every time we use it. Using this feature will make the data more secured.
 ![screenCap1](https://github.com/girisakar365/Project-Rent/blob/main/Rent%206.5/ScreenCap/Security.gif?raw=true)
 2.	User will now be able to use the QR-Code feature. This feature is one of the biggest changes in this version. User can scan the QR code in order to get the information of the record in their other devices. This feature will be useful to send the details of the rental payment to the tenant.
 ![ScreenCap2](https://github.com/girisakar365/Project-Rent/blob/main/Rent%206.5/ScreenCap/QR%20guid.gif?raw=true)
