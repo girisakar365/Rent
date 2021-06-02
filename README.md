@@ -13,6 +13,6 @@ This is my first major project as a beginner. This project is a desktop-based ap
     5. Pyqrcode
     6. File Management
 ## Conclusion:
-After working for almost 2 and a half months in this project, every expected feature are included in the application. The versions up to 4.0 of the application are not maintained thus these versions are not the stable ones. However almost every bugs of the application is identified and solved in version 6.5. Thus, we strongly recommend you to install the 6.5 version of the application. Every version contains the code and details of the features inculded.
+After working for almost 2 and a half months in this project, every expected feature are included in the application. The versions up to 4.0 of the application are testing verions of this application. Thus, these versions are not the stable ones. However almost every bugs of the application is identified and solved in version 6.5. Thus, I strongly recommend you to install the 6.5 version of the application. However, if you are intrested to see every versions, they contain the code and details of the features alongs with their installation softwares.
 
 ___Girisakar365___
