@@ -1,21 +1,45 @@
-# Project-Rent  ![logo](https://raw.githubusercontent.com/girisakar365/Project-Rent/main/Rent%206.5/logo.ico)
+# Project-Rent Version 2.5  ![Logo](https://github.com/girisakar365/Project-Rent/blob/main/Rent%201.0/__img__/Logo.ico)
 
-Tuesday, December 15, 2020
+### Starting up:
+*The main purpose of this program is to calculate the total amount of rent to be paid every month.*
+*Record that payment file and display it if necessary.*
 
-## About
-This is my first major project as a beginner. This project is a desktop-based application based on tkinter framework. The main purpose of this program is to calculate the total amount of rent to be paid by the tenant (The person(s) or party who lives in a rent house) every month and keep it as data.
+*After we run the program, it will ask us a password and its default pasword is mentioned below.*
+*However, we can change the password after entering the main program.*
 
-## Take away:
-    1. Tkinter,PIL
-    2. OOP
-    3. CSV
-    4. List Comprehension
-    5. Pyqrcode
-    6. File Management
-## Conclusion:
-After working for almost 2 and a half months in this project, every expected feature are included in the application. The versions up to 4.0 of the application are testing verions of this application. Thus, these versions are not the stable ones. However almost every bugs of the application is identified and solved in version 6.5. Thus, I strongly recommend you to install the 6.5 version of the application. However, if you are intrested to see every versions, they contain the code and details of the features alongs with their installation softwares.
+##### Password = default123 
 
-## Open in Gitpod
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/girisakar365/Rent/blob/main/Rent%206.5/__init__.py)
 
-___Girisakar365___
+
+### Main Program:
+After entering the main program, we can  record our expense in each category. 
+###### *Category contains:*
+	1. Electricity (Present and Previous meter)
+	2. Water (Unit according to Water supply authority which is usually 11 unit or 12 unit, present and previous meter)
+	3. Waste
+	4. Rent
+
+## New Update:
+###### *Minor changes has been made to this program.*
+	1) Time and date has been included.
+	2) User will now be able to edit and print their record.
+	3) Record of entire year will be automatically captuered in excel file.
+
+### ![warning](https://github.com/girisakar365/Project-Rent/blob/main/Rent%204.0/__img__/warning.ico) Attention!:
+*All the files are connected with each other and depends upon each other for flow of data. So, make sure NOT to rename*
+*any file's as it may lead to problems in booting the main program.*
+*Specially the __img__ file which contains all the required images and .ico files.*
+
+*This program is just a draft program.Thus, user may not be able to use all the features for now. However all the *
+*features will be provided soon.*
+
+### Conclusion:
+*There may be some unexpected bugs in the program which I may not have noticed. There are alot of updates to be done to *
+*this program. This is just a sample of the program. Please let me know if any thing needs to be added, removed or replaced.*
+ 
+
+*Hope this program may help you.
+Good Luck!*
+
+*Developed by:*
+**Virus**
