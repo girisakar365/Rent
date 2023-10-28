@@ -1,4 +1,4 @@
-# Project-Rent  ![logo](https://raw.githubusercontent.com/girisakar365/Project-Rent/main/Rent%206.5/logo.ico)
+# Project-Rent  ![logo](https://drive.google.com/file/d/1Ud427KaPI0QujX65fNdw2gdDjs5vrFHL/view?usp=drive_link)
 
 Tuesday, December 15, 2020
 
