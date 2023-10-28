@@ -21,7 +21,5 @@ After working for almost 2 and a half months in this project, every expected fea
 1. [v4.0.0](https://github.com/girisakar365/Rent/releases/tag/v4.0.0)
 1. [v6.5.3](https://github.com/girisakar365/Rent/releases/tag/v6.5.3)
 
-## Open in Gitpod
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/girisakar365/Rent/blob/main/Rent%206.5/__init__.py)
-
+<br><br>
 ___Girisakar365___
