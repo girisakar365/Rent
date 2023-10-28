@@ -1,4 +1,4 @@
-# Project-Rent  ![logo](https://drive.google.com/file/d/1Ud427KaPI0QujX65fNdw2gdDjs5vrFHL/view?usp=drive_link)
+# Project-Rent  ![logo](https://drive.google.com/file/d/1Ud427KaPI0QujX65fNdw2gdDjs5vrFHL/view)
 
 Tuesday, December 15, 2020
 
