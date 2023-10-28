@@ -13,7 +13,13 @@ This is my first major project as a beginner. This project is a desktop-based ap
     5. Pyqrcode
     6. File Management
 ## Conclusion:
-After working for almost 2 and a half months in this project, every expected feature are included in the application. The versions up to 4.0 of the application are testing verions of this application. Thus, these versions are not the stable ones. However almost every bugs of the application is identified and solved in version 6.5. Thus, I strongly recommend you to install the 6.5 version of the application. However, if you are intrested to see every versions, they contain the code and details of the features alongs with their installation softwares.
+After working for almost 2 and a half months in this project, every expected feature are included in the application. The versions up to 4.0 of the application are testing verions of this application. Thus, these versions are not the stable ones. However almost every bugs of the application is identified and solved in version 6.5. Thus, I strongly recommend you to install the [6.5 version](https://github.com/girisakar365/Rent/releases/tag/v6.5.3) of the application. However, if you are intrested to see every versions, they contain the code and details of the features alongs with their installation softwares. You can find these releases below:<br>
+
+
+1. [v1.0.1](https://github.com/girisakar365/Rent/releases/tag/v1.0.1)
+1. [v2.5.0](https://github.com/girisakar365/Rent/releases/tag/v2.5.0)
+1. [v4.0.0](https://github.com/girisakar365/Rent/releases/tag/v4.0.0)
+1. [v6.5.3](https://github.com/girisakar365/Rent/releases/tag/v6.5.3)
 
 ## Open in Gitpod
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/girisakar365/Rent/blob/main/Rent%206.5/__init__.py)
