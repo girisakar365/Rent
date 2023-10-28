@@ -1,4 +1,4 @@
-# Project-Rent  <img src="https://github.com/girisakar365/Project-Images/blob/main/Rent/rent.png" width="100" height="100">
+# Project-Rent  <img src="https://github.com/girisakar365/Project-Images/blob/main/Rent/rent.png" width="80" height="80">
 
 Tuesday, December 15, 2020
 
